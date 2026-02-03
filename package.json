@@ -1,0 +1,24 @@
+{
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercise_3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaidsyaifulfatih98/day-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zaidsyaifulfatih98/day-3/issues"
+  },
+  "homepage": "https://github.com/zaidsyaifulfatih98/day-3#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
